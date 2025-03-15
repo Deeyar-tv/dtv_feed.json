@@ -6,7 +6,6 @@
     {
       "id": "deeyar_tv_live",
       "title": "Deeyar TV Live",
-      "content_type": "live",
       "short_description": "Watch Deeyar TV’s latest news, politics, entertainment, and more.",
       "long_description": "Deeyar TV provides 24/7 streaming of news, political discussions, cultural programs, entertainment, and music shows.",
       "thumbnail": "https://raw.githubusercontent.com/Deeyar-tv/Logo/main/DeeyarTV_1920x1080_.jpg",
@@ -29,6 +28,7 @@
         "start": "2025-03-14T00:00:00Z",
         "end": "2030-12-31T23:59:59Z"
       },
+      "runtime": 0,
       "content": {
         "videos": [
           {
@@ -54,7 +54,7 @@
     {
       "id": "roku_feed_ds",
       "title": "Deeyar TV Additional Feed",
-      "feed_url": "https://raw.githubusercontent.com/Deeyar-tv/dtv_feed.json/refs/heads/main/dtv_feed.json"
+      "feed_url": "https://raw.githubusercontent.com/Deeyar-tv/main/dtv_feed.json"
     }
   ],
   "contact_info": {
